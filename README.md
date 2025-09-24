@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blockhead36
-- 👀 I’m interested in Javascript, Powershell scripting, building websites
-- 🌱 I’m currently learning Javascript, Powershell
+- 👀 I’m interested in Pyhton, Powershell and JavaScript, building websites
+- 🌱 I’m currently learning Pyhton, Powershell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
